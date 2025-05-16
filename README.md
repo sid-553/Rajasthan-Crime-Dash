@@ -68,6 +68,9 @@ This dashboard is already powerful, but here’s what’s next on the roadmap:
 - Real-time safety alerts by region
 
 ---
+## 🌍 Live Demo
+Curious? Check it out live here:
+https://effortless-empanada-02fd5f.netlify.app 
 
 ## 📦 Getting Started
 
